@@ -51,3 +51,27 @@ Problem statements belong to LeetCode, so each file links to the problem instead
 ## Contact
 
 Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com/in/sanjay-singh-88314b25b/) · [GitHub](https://github.com/SanjayS1ngh)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+<!---LeetCode Topics End-->
