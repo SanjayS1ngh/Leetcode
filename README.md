@@ -74,4 +74,24 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 |  |
 | ------- |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Math
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
