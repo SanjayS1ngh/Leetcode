@@ -64,6 +64,7 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 | [0513-find-bottom-left-tree-value](https://github.com/SanjayS1ngh/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,12 +76,14 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/SanjayS1ngh/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/SanjayS1ngh/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1609-even-odd-tree) |
 ## Array
 |  |
 | ------- |
