@@ -61,10 +61,12 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -73,6 +75,7 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Array
 |  |
@@ -94,4 +97,8 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
