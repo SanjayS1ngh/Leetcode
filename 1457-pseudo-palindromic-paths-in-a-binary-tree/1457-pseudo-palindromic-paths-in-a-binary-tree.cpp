@@ -13,28 +13,21 @@ class Solution {
 public:
 
 
-    void solve(TreeNode*root,vector<int>&count,int &ans){
+    void solve(TreeNode*root,int count,int &ans){
         if(root==NULL)return;
-        count[root->val]++;
+        count=count^(1<<root->val);
         if(root->left==NULL&&root->right==NULL){
-            int odd=0;
-            for(int i=1;i<10;i++){
-                if(count[i]%2!=0){
-                    odd++;
-                    if(odd>1)break;
-                }
-            }
-            if(odd<=1)ans++;
+            if((count & count-1)==0)ans++;
+            
         }
         solve(root->left,count,ans);
         solve(root->right,count,ans);
-        count[root->val]--;
         return;
     }
     int pseudoPalindromicPaths (TreeNode* root) {
         int ans=0;
-        vector<int>count(10,0);
-        solve(root,count,ans);
+        // vector<int>count(10,0);
+        solve(root,0,ans);
         return ans;
     }
 };
