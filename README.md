@@ -88,6 +88,7 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +109,24 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/SanjayS1ngh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
