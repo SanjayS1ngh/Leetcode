@@ -87,6 +87,7 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 ## Array
 |  |
 | ------- |
+| [0948-bag-of-tokens](https://github.com/SanjayS1ngh/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Math
@@ -129,4 +130,16 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/SanjayS1ngh/Leetcode/tree/master/0948-bag-of-tokens) |
+## Greedy
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/SanjayS1ngh/Leetcode/tree/master/0948-bag-of-tokens) |
+## Sorting
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/SanjayS1ngh/Leetcode/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->
