@@ -93,6 +93,7 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 ## Math
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/SanjayS1ngh/Leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
@@ -142,4 +143,8 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/SanjayS1ngh/Leetcode/tree/master/0948-bag-of-tokens) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/SanjayS1ngh/Leetcode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
