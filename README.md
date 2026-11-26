@@ -142,6 +142,7 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 | ------- |
 | [0881-boats-to-save-people](https://github.com/SanjayS1ngh/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SanjayS1ngh/Leetcode/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/SanjayS1ngh/Leetcode/tree/master/1328-break-a-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -155,4 +156,8 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/SanjayS1ngh/Leetcode/tree/master/0881-boats-to-save-people) |
+## String
+|  |
+| ------- |
+| [1328-break-a-palindrome](https://github.com/SanjayS1ngh/Leetcode/tree/master/1328-break-a-palindrome) |
 <!---LeetCode Topics End-->
