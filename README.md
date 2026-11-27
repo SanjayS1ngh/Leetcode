@@ -91,6 +91,7 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 | [0948-bag-of-tokens](https://github.com/SanjayS1ngh/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SanjayS1ngh/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/SanjayS1ngh/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SanjayS1ngh/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 | [0881-boats-to-save-people](https://github.com/SanjayS1ngh/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SanjayS1ngh/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/SanjayS1ngh/Leetcode/tree/master/1328-break-a-palindrome) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SanjayS1ngh/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -160,4 +162,8 @@ Sanjay Singh · samantsanjay100@gmail.com · [LinkedIn](https://www.linkedin.com
 |  |
 | ------- |
 | [1328-break-a-palindrome](https://github.com/SanjayS1ngh/Leetcode/tree/master/1328-break-a-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SanjayS1ngh/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
